@@ -6,7 +6,7 @@ Natnaiel’s Portfolio
 - The function accepts the name of a National Team that participated in the 2018 World Cup. The function returns an events heatmap for the different fullbacks of a team. The function only returns heatmaps for players  - with more than 50 event actions.
 - The data in the two folders employed here were the free Statsbomb match and event data on the 2018 World Cup.
 
-![alt text](C:\Users\natem\Downloads\Books and Articles\Self-Learning\Football Analytics\SoccermaticsForPython-master\Statsbomb\data\Average Fifa Ranking of Afcon 2021 Groups.png)
+![alt text](Average Fifa Ranking of Afcon 2021 Groups.png)
 
 **Project 2:Ethiopian-Premier-League Tables**
 - This project was focused on uncovering trends and interesting statistics in regards to the Ethiopian Premier League soccer tournament from 1999-2021.
