@@ -12,8 +12,11 @@ Natnaiel’s Portfolio
 - Obtained data from the RSSSF database for the data on the Ethiopian Premier League standings for the 1999-2021 time period.
 - Cleaned and merged the data in order to perform data exploration.
 - Produced tables and visualizations in order to present striking statistics and trends that have been witnessed in the league over the past 20 years.
+  
 ![Teams that have scored the highest Goals per 90 minutes(GF90)](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/HighestGoals.png)
+
 ![Teams that have scored the lowest Goals per 90 minutes(GF90](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/LowestGoals.png)
+
 ![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Number%20of%20Club%20Relegations.png)
 
 **Project 3:AFCON-Group Disparity**
