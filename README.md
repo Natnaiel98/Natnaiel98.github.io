@@ -29,6 +29,10 @@ Natnaiel’s Portfolio
 - Data was obtained from two sources: Transfermarkt for the National team standings at the time of a tournament and Wikipedia for the group composition for all tournaments held.
 - Different measures to calculate potential inequalities in the strengths of teams distributed among the different groups. Different visualizations were produced to display these inequality between the groups.
 
+![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Average%20Fifa%20Ranking%20of%20Afcon%202021%20Groups.png)
+
+![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/FIFA%20Ranking%20Difference%20between%20Third%20and%20Fourth%20Pot%20teams.png)
+
 
 **Project 4: Weather and Altitude effects on the Ethiopian National Team**
 
