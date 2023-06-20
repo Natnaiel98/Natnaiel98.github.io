@@ -1,11 +1,21 @@
 # Natnaiel98.github.io
 Natnaiel’s Portfolio
 [**Project 1: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
-- This is a function that returns a Fullback's heat map for Statbomb's 2018 World Cup data.
-- The function accepts the name of a National Team that participated in the 2018 World Cup. The function returns an events heatmap for the different fullbacks of a team. The function only returns heatmaps for players  - with more than 50 event actions.
-- The data in the two folders employed here were the free Statsbomb match and event data on the 2018 World Cup.
+- This project produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
+- One of the recent major trends in Soccer is the evolution of the FullBack position. Managers have increasingly been training fullbacks to drift to more central areas of the pitch as opposed to their traditional role of sticking close to the endline. 
+- The function inputs the name of a National Team that participated in the 2018 World Cup and outputs a heatmap with all of the actions performed by all of the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
+- The following visualizions display a contrast in Full back play styles. The first two heatmaps are of Croatian fullbacks Sime Vrsaljko and Ivan Strinic and show us that these players have been utilized as traditional fullbacks:
+
+![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Croatia-%20Vrsaljlko%20Heatmap.png)
+
+![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Croatia-Ivan%20Strinic%20Heatmap.png)
+
+- Eventual champions Germany had fullbacks Julian Brandt and Jonas Hector, which often drifted centrally:
 
 
+![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Gernany_Julian%20Brandt%20Heatmap.png)
+
+![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Germany_Jonas%20Hector%20Heatmap.png)
 
 **Project 2:Ethiopian-Premier-League Tables**
 - This project was focused on uncovering trends and interesting statistics in regards to the Ethiopian Premier League soccer tournament from 1999-2021.
@@ -34,9 +44,4 @@ Natnaiel’s Portfolio
 ![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/FIFA%20Ranking%20Difference%20between%20Third%20and%20Fourth%20Pot%20teams.png)
 
 
-**Project 4: Weather and Altitude effects on the Ethiopian National Team**
-
-- This project aimed to analyze the performance of the national team from 2010-2022 and seeked to explore which variables determined the likelihood of a win/loss.
-- Three dependent variables were selected for this analysis. The weather and elevation information were obtained from Wikipedia entries for the selected cities. The information on the matches played (city, result, if - the game was home/away) was obtained from the nationalfootballteams.com website.
-- Various visualizations were produced to explore the relationship between the dependent variable (the result of a match) and the independent variables (height, elevation, home/away?). And regression analysis was - - - performed.
 
