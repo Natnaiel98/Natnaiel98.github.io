@@ -6,16 +6,16 @@ Natnaiel’s Portfolio
 - The function inputs the name of a National Team that participated in the 2018 World Cup and outputs a heatmap with all of the actions performed by all of the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
 - The following visualizions display a contrast in Full back play styles. The first two heatmaps are of Croatian fullbacks Sime Vrsaljko and Ivan Strinic and show us that these players have been utilized as traditional fullbacks:
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Croatia-%20Vrsaljlko%20Heatmap.png)
+![](Images/Croatia-%20Vrsaljlko%20Heatmap.png)
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Croatia-Ivan%20Strinic%20Heatmap.png)
+![](Images/Croatia-Ivan%20Strinic%20Heatmap.png)
 
 - Eventual champions Germany had fullbacks Julian Brandt and Jonas Hector, which often drifted centrally:
 
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Gernany_Julian%20Brandt%20Heatmap.png)
+![](Images/Gernany_Julian%20Brandt%20Heatmap.png)
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Germany_Jonas%20Hector%20Heatmap.png)
+![](Germany_Jonas%20Hector%20Heatmap.png)
 
 **Project 2:Ethiopian-Premier-League Tables**
 - Produced tables and visualizations to uncover trends and interesting statistics in regards to the Ethiopian Premier League soccer tournament from 1999-2021.
@@ -25,13 +25,13 @@ Natnaiel’s Portfolio
 
   **Teams that have scored the highest Goals per 90 minutes(GF90)**
   
-![Teams that have scored the highest Goals per 90 minutes(GF90)](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/HighestGoals.png)
+![Teams that have scored the highest Goals per 90 minutes(GF90)](Images/HighestGoals.png)
 
  **Teams that have scored the lowest Goals per 90 minutes(GF90)**
  
-![Teams that have scored the lowest Goals per 90 minutes(GF90](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/LowestGoals.png)
+![Teams that have scored the lowest Goals per 90 minutes(GF90](Images/LowestGoals.png)
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Number%20of%20Club%20Relegations.png)
+![](Images/Number%20of%20Club%20Relegations.png)
 
 **Project 3:AFCON-Group Disparity**
 
@@ -40,9 +40,9 @@ Natnaiel’s Portfolio
 - Data was obtained from two sources: Transfermarkt for the National team standings at the time of a tournament and Wikipedia for the group composition for all tournaments held.
 - Different measures to calculate potential inequalities in the strengths of teams distributed among the different groups. Different visualizations were produced to display these inequality between the groups.
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/Average%20Fifa%20Ranking%20of%20Afcon%202021%20Groups.png)
+![](Images/Average%20Fifa%20Ranking%20of%20Afcon%202021%20Groups.png)
 
-![](https://github.com/Natnaiel98/Natnaiel98.github.io/blob/main/Images/FIFA%20Ranking%20Difference%20between%20Third%20and%20Fourth%20Pot%20teams.png)
+![](Images/FIFA%20Ranking%20Difference%20between%20Third%20and%20Fourth%20Pot%20teams.png)
 
 
 
