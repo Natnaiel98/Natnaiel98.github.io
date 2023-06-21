@@ -1,5 +1,5 @@
-# Natnaiel98.github.io
-Natnaiel’s Portfolio
+# Natnaiel’s Portfolio
+
 [**Project 1: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
 - Produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
 - One of the recent major trends in Soccer is the evolution of the FullBack position. Managers have increasingly been training fullbacks to drift to more central areas of the pitch as opposed to their traditional role of sticking close to the endline. 
@@ -17,7 +17,7 @@ Natnaiel’s Portfolio
 
 ![](Germany_Jonas%20Hector%20Heatmap.png)
 
-[**Project 2:Ethiopian-Premier-League Tables**] (https://github.com/Natnaiel98/Ethiopian-Premier-League-Statistic-Tables)
+[**Project 2:Ethiopian-Premier-League Tables**](https://github.com/Natnaiel98/Ethiopian-Premier-League-Statistic-Tables)
 - Produced tables and visualizations to uncover trends and interesting statistics in regards to the Ethiopian Premier League soccer tournament from 1999-2021.
 - Obtained data from the Rec.Sport.Soccer Statistics Foundation (RSSSF) database for the data on the Ethiopian Premier League standings for the 1999-2021 time period.
 - Cleaned and merged this data in order to perform data exploration.
@@ -33,7 +33,7 @@ Natnaiel’s Portfolio
 
 ![](Images/Number%20of%20Club%20Relegations.png)
 
-[**Project 3:AFCON-Group Disparity**] (https://github.com/Natnaiel98/AFCON-Group-Disparity)
+[**Project 3:AFCON-Group Disparity**](https://github.com/Natnaiel98/AFCON-Group-Disparity)
 
 - Analyzed how equally distributed each group in the African Cup of Nations (AFCON) soccer tournament in terms of team strength.
 - Team strength was detertmined using the National world rankings of the teams comprising these groups.
