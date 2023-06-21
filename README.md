@@ -15,7 +15,7 @@
 
 ![](Images/Gernany_Julian%20Brandt%20Heatmap.png)
 
-![](Germany_Jonas%20Hector%20Heatmap.png)
+![](Images/Germany_Jonas%20Hector%20Heatmap.png)
 
 [**Project 2:Ethiopian-Premier-League Tables**](https://github.com/Natnaiel98/Ethiopian-Premier-League-Statistic-Tables)
 - Produced tables and visualizations to uncover trends and interesting statistics in regards to the Ethiopian Premier League soccer tournament from 1999-2021.
