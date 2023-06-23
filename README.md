@@ -2,15 +2,15 @@
 
 [**Project 1: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
 - Produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
-- One of the recent major trends in Soccer is the evolution of the FullBack position. Managers have increasingly been training fullbacks to drift to more central areas of the pitch as opposed to their traditional role of sticking close to the endline. 
-- The function inputs the name of a National Team that participated in the 2018 World Cup and outputs a heatmap with all of the actions performed by all of the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
-- The following visualizions display a contrast in Full back play styles. The first two heatmaps are of Croatian fullbacks Sime Vrsaljko and Ivan Strinic and show us that these players have been utilized as traditional fullbacks:
+- One of the recent major trends in Soccer is the evolution of the FullBack position. Traditionally, fullbacks have been deployed to stay near the sideline of the pitch but Managers are now  increasingly been instructing fullbacks to drift to more central areas of the pitch. 
+- The function that I have created allows a user to visualize the difference in how teams set up their fullbacks over the course of the 2018 World Cup. The function accepts the name of a National Team as an input and outputs a heatmap with all of the actions performed by the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
+- The following visualizions display a contrast in bullback play styles. The first two heatmaps are of Croatian fullbacks Sime Vrsaljko and Ivan Strinic and show us that these players have been utilized as traditional fullbacks that spend most of their time at the edge of the pitch:
 
 ![](Images/Croatia-%20Vrsaljlko%20Heatmap.png)
 
 ![](Images/Croatia-Ivan%20Strinic%20Heatmap.png)
 
-- Eventual champions Germany had fullbacks Julian Brandt and Jonas Hector, which often drifted centrally:
+- Eventual champions Germany on the other hand, played fullbacks Julian Brandt and Jonas Hector, which often drifted centrally:
 
 
 ![](Images/Gernany_Julian%20Brandt%20Heatmap.png)
