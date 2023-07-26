@@ -1,11 +1,13 @@
 # Natnaiel’s Portfolio
 
-[**Project 1: World Bank API Visualization**](https://github.com/Natnaiel98/Fullback_Heatmap)
-- Produced a function that retrieves leading economic indicator variables from the World Bank API and produces a visualization that compares the selceted indicator with the GDP per Capita growth rate for a selected year.
-- There has been a vast amount of literature in regards to economic determinants of growth. Some of the variables that have been found to have strong relationship with the growth rate of a nation are: Foreign Direct Investments( Inflows or Outflows), Imports/Exports, Inflation, and Capital Growth Formation.
+
+[**Project 1: World Bank API Visualization**](https://github.com/Natnaiel98/World-Bank-API-Visualization)
+- Produced a function that retrieves leading economic indicator variables from the World Bank API and produces a visualization that compares the selected indicator with the GDP per Capita growth rate for a selected year.
+- There has been a vast amount of literature in regards to economic determinants of growth. Some of the variables that have been found to have strong relationship with the growth rate of a nation are: Foreign Direct Investments (Inflows or Outflows), Imports/Exports, Inflation, and Capital Growth Formation.
 - The function that I have created allows a user to input the type of variable to analyze, and the year of analysis. The function then pulls data from the World Bank API, wrangles this data and produces a visualization that explores the relationship between GDP per Capita growth and the selected indicator.
 
-
+![](Images/World Bank API GDP Per Capita Vs FDI.png)
+![](Images/World Bank API GDP Per Capita Vs Gross Capital Formation.png)
 
 
 [**Project 2: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
