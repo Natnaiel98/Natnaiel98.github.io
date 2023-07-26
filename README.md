@@ -6,9 +6,9 @@
 - There has been a vast amount of literature in regards to economic determinants of growth. Some of the variables that have been found to have strong relationship with the growth rate of a nation are: Foreign Direct Investments (Inflows or Outflows), Imports/Exports, Inflation, and Capital Growth Formation.
 - The function that I have created allows a user to input the type of variable to analyze, and the year of analysis. The function then pulls data from the World Bank API, wrangles this data and produces a visualization that explores the relationship between GDP per Capita growth and the selected indicator.
 
-![](Images/World Bank API GDP Per Capita Vs FDI.png)
-![](Images/World Bank API GDP Per Capita Vs Gross Capital Formation.png)
-
+![](Images/World_Bank_API_GDP_Per_Capita_Vs_FDI.png)
+- These two visualizations display that the Foreign Direct Currency Inflows and especially the Gross Capital Formation had a positive correlation with a country's annual GDP per Capita Growth rate in 2019.
+![](Images/World_Bank_API_GDP_Per_Capita_Vs_Gross_Capital_Formation.png)
 
 [**Project 2: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
 - Produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
