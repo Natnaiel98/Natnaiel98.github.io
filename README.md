@@ -1,7 +1,7 @@
 # Natnaiel’s Portfolio
 
 
-[**Project 1: World Bank API Visualization**](https://github.com/Natnaiel98/World-Bank-API-Visualization)
+## [**Project 1: World Bank API Visualization**](https://github.com/Natnaiel98/World-Bank-API-Visualization)
 - Created a function that retrieves relevant economic variables from the World Bank API and produces a visualization that compares the selected indicator with the GDP per Capita growth rate for all nations with available data in a selected year.
 - The variables selected for analysis are based off of a large body of literature regarding the determinants of economic growth. Some of the variables that have been found to have strong relationship with the growth rate of a nation are: Foreign Direct Investments (Inflows or Outflows), Imports/Exports, Inflation, and Capital Growth Formation.
 - The function allows a user to input the independent variable to analyze, and the year of analysis. The function pulls data from the World Bank API, wrangles it and produces a scatterplot and regression line that plots the relationship between the annual GDP per Capita growth rate and the selected indicator.
@@ -10,7 +10,7 @@
 - These two visualizations display that the Foreign Direct Currency Inflows and especially the Gross Capital Formation had a positive correlation with a country's annual GDP per Capita Growth rate in 2019.
 ![](Images/World_Bank_API_GDP_Per_Capita_Vs_Gross_Capital_Formation.png)
 
-[**Project 2: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
+## [**Project 2: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
 - Produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
 - One of the recent major trends in Soccer is the evolution of the FullBack position. Traditionally, fullbacks have been deployed to stay near the sideline of the pitch but Managers are now  increasingly been instructing fullbacks to drift to more central areas of the pitch. 
 - The function that allows a user to visualize the difference in how teams set up their fullbacks over the course of the 2018 World Cup. The function accepts the name of a National Team as an input and outputs a heatmap with all of the actions performed by the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
@@ -27,7 +27,7 @@
 
 ![](Images/Germany_Jonas%20Hector%20Heatmap.png)
 
-[**Project 3:Ethiopian-Premier-League Tables**](https://github.com/Natnaiel98/Ethiopian-Premier-League-Statistic-Tables)
+## [**Project 3:Ethiopian-Premier-League Tables**](https://github.com/Natnaiel98/Ethiopian-Premier-League-Statistic-Tables)
 - Produced tables and visualizations to uncover trends and interesting statistics in regards to the Ethiopian Premier League soccer tournament from 1999-2021.
 - Obtained data from the Rec.Sport.Soccer Statistics Foundation (RSSSF) database for the data on the Ethiopian Premier League standings for the 1999-2021 time period.
 - Cleaned and merged this data in order to perform data exploration.
@@ -43,7 +43,7 @@
 
 ![](Images/Number%20of%20Club%20Relegations.png)
 
-[**Project 4:AFCON-Group Disparity**](https://github.com/Natnaiel98/AFCON-Group-Disparity)
+## [**Project 4:AFCON-Group Disparity**](https://github.com/Natnaiel98/AFCON-Group-Disparity)
 
 - Analyzed how equally distributed each group in the African Cup of Nations (AFCON) soccer tournament in terms of team strength.
 - Team strength was detertmined using the National world rankings of the teams comprising these groups.
