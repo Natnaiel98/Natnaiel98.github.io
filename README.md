@@ -11,7 +11,6 @@
 ![](Images/World_Bank_API_GDP_Per_Capita_Vs_Gross_Capital_Formation.png)
 
 ## [**Project 2: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
-- Produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
 - One of the major tactical shifts in the sport of Soccer is the evolution of what is called the "Fullback" position. Traditionally, fullbacks have been trained to provide mainly defensive but also offensive support on the flanks of the pitch. Since the mid-2010s, more and more managers are instructing their fullbacks to "invert" and drift to more central areas of the pitch in order to win the midfield battle.
 - The following function allows a user to visualize the difference in how teams set up their fullbacks at the 2018 FIFA Men's World Cup tournament. The function accepts the name of a National Team that particpated in the tournament as an input and outputs a heatmap of the activities of all of that teams fullbacks for players that were involved in at least 50 actions over the course of the tournament.
 
