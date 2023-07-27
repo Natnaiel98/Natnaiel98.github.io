@@ -2,9 +2,9 @@
 
 
 [**Project 1: World Bank API Visualization**](https://github.com/Natnaiel98/World-Bank-API-Visualization)
-- Produced a function that retrieves leading economic indicator variables from the World Bank API and produces a visualization that compares the selected indicator with the GDP per Capita growth rate for a selected year.
-- There has been a vast amount of literature in regards to economic determinants of growth. Some of the variables that have been found to have strong relationship with the growth rate of a nation are: Foreign Direct Investments (Inflows or Outflows), Imports/Exports, Inflation, and Capital Growth Formation.
-- The function that I have created allows a user to input the type of variable to analyze, and the year of analysis. The function then pulls data from the World Bank API, wrangles this data and produces a visualization that explores the relationship between GDP per Capita growth and the selected indicator.
+- Created a function that retrieves relevant economic variables from the World Bank API and produces a visualization that compares the selected indicator with the GDP per Capita growth rate for all nations with available data in a selected year.
+- The variables selected for analysis are based off of a large body of literature regarding the determinants of economic growth. Some of the variables that have been found to have strong relationship with the growth rate of a nation are: Foreign Direct Investments (Inflows or Outflows), Imports/Exports, Inflation, and Capital Growth Formation.
+- The function allows a user to input the independent variable to analyze, and the year of analysis. The function pulls data from the World Bank API, wrangles it and produces a scatterplot and regression line that plots the relationship between the annual GDP per Capita growth rate and the selected indicator.
 
 ![](Images/World_Bank_API_GDP_Per_Capita_Vs_FDI.png)
 - These two visualizations display that the Foreign Direct Currency Inflows and especially the Gross Capital Formation had a positive correlation with a country's annual GDP per Capita Growth rate in 2019.
@@ -13,7 +13,7 @@
 [**Project 2: Fullback_Heatmap**](https://github.com/Natnaiel98/Fullback_Heatmap)
 - Produced  a function that returns a Fullback's heat map for Statbomb's 2018 Men's World Cup Soccer tournament.
 - One of the recent major trends in Soccer is the evolution of the FullBack position. Traditionally, fullbacks have been deployed to stay near the sideline of the pitch but Managers are now  increasingly been instructing fullbacks to drift to more central areas of the pitch. 
-- The function that I have created allows a user to visualize the difference in how teams set up their fullbacks over the course of the 2018 World Cup. The function accepts the name of a National Team as an input and outputs a heatmap with all of the actions performed by the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
+- The function that allows a user to visualize the difference in how teams set up their fullbacks over the course of the 2018 World Cup. The function accepts the name of a National Team as an input and outputs a heatmap with all of the actions performed by the team's fullbacks over the course of the tournament. The function only returns heatmaps for players with more than 50 event actions.
 - The following visualizions display a contrast in bullback play styles. The first two heatmaps are of Croatian fullbacks Sime Vrsaljko and Ivan Strinic and show us that these players have been utilized as traditional fullbacks that spend most of their time at the edge of the pitch:
 
 ![](Images/Croatia-%20Vrsaljlko%20Heatmap.png)
