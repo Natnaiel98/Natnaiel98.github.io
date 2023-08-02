@@ -20,12 +20,12 @@
 - Team strength was determined by using the national world rankings of the teams comprising these groups at the time of the tournament.
 - Data was mined from two sources: the Transfermarkt website was used to get the National team standings at the time of a tournament and Wikipedia was used to obtain the group composition of the AFCON tournaments held.
 
-![](Images/Average%20Fifa%20Ranking%20of%20Afcon%202021%20Groups.png)
+![](Images/AverageFifaRank.png)
 
 **This figure shows us that the group that the Ethiopian National Team belonged to (Group A) was not unusually difficult in terms of the average rank. However, this measure could be skewed by very strong first and second-pot teams. The threshold for progressing through to the next round is finishing third and above. So let us look at the difference in rank between the Pot 3 and Pot 4 teams in each group.**
 
 
-![](Images/FIFA%20Ranking%20Difference%20between%20Third%20and%20Fourth%20Pot%20teams.png)
+![](Images/DifferencesinFifaRankings.png)
 
 **This figure on the other hand displays that the Ethiopian National Team did indeed face an uphill battle as it faced the by far largest gap in strength with the next weakest team in its group (60 places).**
 
